@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:http://shop.onebigthing.co/sitemap_fast.xml
